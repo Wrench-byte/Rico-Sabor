@@ -17,6 +17,7 @@
 }
 
 button {
+    float: inline-start;
     padding: 10px 20px;
     background-color: #d10202;
     color: white;
