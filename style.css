@@ -38,13 +38,13 @@ button {
 
 }
 .texto3{
-    font-size: 20px;
+    font-size: 16px;
     text-align: center;
     border:double red ;
     border-radius: 50px;
     border-width: 5px;    
     position: absolute;
-    width: 200px;
+    width: 150px;
     
 }
 .rs{
@@ -52,7 +52,7 @@ button {
    border: dashed red;
    border-radius: 20px;
    position: relative;
-   width: 200px;
+   width: 150px;
 
 }
 .insta{
