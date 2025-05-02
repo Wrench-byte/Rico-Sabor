@@ -1,0 +1,104 @@
+.foto1{
+    float: right;
+    position: relative;
+    width: 250px;
+    height: 250px;
+}
+
+.texto1{
+    font-style: italic;
+    font-size: 50pt;
+}
+.cc{
+    
+    position: absolute;
+    width: 500px;
+    right:40%
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #d10202;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .my-button:hover {
+    background-color: #df0d0d;
+  }
+  .my-button:active {
+    background-color: #be0505;
+  }
+  .aboutus{
+    font-style: italic;
+    font-size: 70px;
+    text-align: center;
+
+}
+.texto3{
+    font-size: 20px;
+    text-align: center;
+    border:double red ;
+    border-radius: 50px;
+    border-width: 5px;    
+    position: absolute;
+    width: 500px;
+    right: 36%;
+}
+.rs{
+    text-align: center;
+   border: dashed red;
+   border-radius: 20px;
+   position: relative;
+   width: 500px;
+   left: 35%;
+}
+.insta{
+    text-align: center;
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+.ima{
+width: 300px;
+height: 300px;
+border-radius: 100px;
+}
+.cuadrado{
+    border: 0cm;
+}
+
+.menu{
+    border: 10px groove;
+    position: relative;
+width:1000px;
+height: 1000px;
+left: 400px;
+}
+
+.bm{
+    background-color: black;
+}
+
+.gif{
+    float: inline-start;
+    border: 10px ridge red;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+.gif2{
+    border: 10px double violet;
+    float: inline-end;
+    border-radius: 70px;
+    width: 100px;
+    height: 100px;
+}
+.w{
+    color: white;
+}
+.q{
+    text-align: end;
+    color: white;
+}
