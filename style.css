@@ -44,7 +44,7 @@ button {
     border-radius: 50px;
     border-width: 5px;    
     position: absolute;
-    width: 500px;
+    width: 200px;
     
 }
 .rs{
@@ -52,7 +52,7 @@ button {
    border: dashed red;
    border-radius: 20px;
    position: relative;
-   width: 500px;
+   width: 200px;
 
 }
 .insta{
@@ -73,8 +73,8 @@ border-radius: 100px;
 .menu{
     border: 10px groove;
     position: relative;
-width: 100px;
-height: 100px;
+width: 200px;
+height: 200px;
 
 }
 
